@@ -35,7 +35,7 @@ git branch [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Cria uma nova linna do tempo beseado a partir daquela que voce esta.
 
 **Quando usar / observação:**
 
@@ -67,7 +67,7 @@ git merge [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Pega as alterações de outro lugar e coloca no que voce ta trrabalhando? 
 
 **Quando usar / observação:**
 
@@ -94,9 +94,9 @@ git branch -d [nome-do-branch]
 ## Checklist deste arquivo
 
 - [ ] 1. `git branch`
-- [ ] 2. `git branch [nome-do-branch]`
+- [x] 2. `git branch [nome-do-branch]`
 - [ ] 3. `git switch -c [nome-do-branch]`
-- [ ] 4. `git merge [nome-do-branch]`
+- [x] 4. `git merge [nome-do-branch]`
 - [ ] 5. `git branch -d [nome-do-branch]`
 
 ---
