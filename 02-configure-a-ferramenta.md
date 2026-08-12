@@ -45,7 +45,7 @@ git config --global user.email "[endereco-de-email]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
+- [x] 1. `git config --global user.name "[nome]"`
 - [ ] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
