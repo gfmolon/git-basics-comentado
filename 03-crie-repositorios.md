@@ -23,7 +23,7 @@ Aqui cria o arquivo para iniciar o git local dentro de uma pasta.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Ao iniciar um projeto.
 
 ---
 
@@ -46,7 +46,7 @@ git clone [url]
 ## Checklist deste arquivo
 
 - [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [x] 2. `git clone [url]`
 
 ---
 
