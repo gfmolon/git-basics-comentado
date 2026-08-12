@@ -19,7 +19,7 @@ git status
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Mostra os arquivos e prepara para enviar as mudanças.
 
 **Quando usar / observação:**
 
@@ -109,7 +109,7 @@ git commit -m "[mensagem descritiva]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
+- [x] 1. `git status`
 - [ ] 2. `git diff`
 - [ ] 3. `git add [arquivo]`
 - [ ] 4. `git diff --staged`
