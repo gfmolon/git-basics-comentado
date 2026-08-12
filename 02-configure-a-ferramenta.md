@@ -23,7 +23,7 @@ Configura o nome o usuário global da máquina.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando recém instala o fit na máquina.
 
 ---
 
