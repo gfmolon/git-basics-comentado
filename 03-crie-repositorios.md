@@ -19,7 +19,7 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Aqui cria o arquivo para iniciar o git local dentro de uma pasta.
 
 **Quando usar / observação:**
 
