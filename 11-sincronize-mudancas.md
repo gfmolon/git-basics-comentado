@@ -19,7 +19,7 @@ git fetch [nome-remoto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Sincroniza com repositorio.
 
 **Quando usar / observação:**
 
