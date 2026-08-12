@@ -21,7 +21,7 @@ temp-*
 
 **O que este arquivo faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Não faço ideia do que é isso.
 
 **Quando usar / observação:**
 
@@ -48,7 +48,7 @@ git ls-files --others --ignored --exclude-standard
 ## Checklist deste arquivo
 
 - [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
