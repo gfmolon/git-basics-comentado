@@ -51,7 +51,7 @@ git add [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Adiciona unm arquivo.
 
 **Quando usar / observação:**
 
@@ -111,7 +111,7 @@ git commit -m "[mensagem descritiva]"
 
 - [x] 1. `git status`
 - [ ] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
+- [x] 3. `git add [arquivo]`
 - [ ] 4. `git diff --staged`
 - [ ] 5. `git reset [arquivo]`
 - [ ] 6. `git commit -m "[mensagem descritiva]"`
