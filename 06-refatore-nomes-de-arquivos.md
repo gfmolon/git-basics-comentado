@@ -19,7 +19,7 @@ git rm [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Remover ou renomear arquivo?
 
 **Quando usar / observação:**
 
@@ -61,7 +61,7 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git rm [arquivo]`
+- [x] 1. `git rm [arquivo]`
 - [ ] 2. `git rm --cached [arquivo]`
 - [ ] 3. `git mv [arquivo-original] [arquivo-renomeado]`
 
