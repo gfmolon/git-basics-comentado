@@ -19,7 +19,7 @@ git stash
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Guarda trabalho incompleto sem comitar.
 
 **Quando usar / observação:**
 
@@ -77,7 +77,7 @@ git stash drop
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git stash`
+- [x] 1. `git stash`
 - [ ] 2. `git stash pop`
 - [ ] 3. `git stash list`
 - [ ] 4. `git stash drop`
