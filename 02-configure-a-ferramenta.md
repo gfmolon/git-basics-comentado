@@ -19,7 +19,7 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Configura o nome o usuário global da máquina.
 
 **Quando usar / observação:**
 
