@@ -19,7 +19,7 @@ git reset [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Voltar atrás sem descartar o trabalho
 
 **Quando usar / observação:**
 
