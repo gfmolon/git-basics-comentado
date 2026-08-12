@@ -19,7 +19,7 @@ git log
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Ler as versões anteriores e pontos de mudanças salbos dentro dessa branch
 
 **Quando usar / observação:**
 
@@ -77,7 +77,7 @@ git show [commit]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git log`
+- [x] 1. `git log`
 - [ ] 2. `git log --follow [arquivo]`
 - [ ] 3. `git diff [primeiro-branch]...[segundo-branch]`
 - [ ] 4. `git show [commit]`
